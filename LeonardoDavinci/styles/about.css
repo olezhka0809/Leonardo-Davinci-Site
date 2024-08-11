@@ -1,0 +1,41 @@
+.about {
+    background-color: var(--bg-main-grey);
+    padding: 60px 30px 100px 30px;
+    text-align: center;
+    color: var(--color-main-black);
+}
+
+.about-Title {
+    font-size: 34px;
+    font-weight: 700;
+    margin: 0 0 45px 0 ;
+}
+
+.about-description,
+.Artistic-Genius-description,
+.Scientific-and-Engineering-Vision-decription  {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0 0 15px 0;
+    text-align: justify;
+}
+
+.Artistic-Genius-Title,
+.Scientific-and-Engineering-Vision-Title {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 0 15px 0;
+}
+
+.Scientific-and-Engineering-Vision-decription  {
+    margin: 0 ;
+}
+
+@media(max-width: 480px){
+    .about-description,
+.Artistic-Genius-description,
+.Scientific-and-Engineering-Vision-decription  {
+    font-size: 14px;
+    
+}
+}
