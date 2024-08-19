@@ -46,15 +46,4 @@ To view the website locally, follow these steps:
 - **SVG Icons**: For social media icons and burger menu icon.
 
 
-
-### Key Points:
-- **Purpose:** Clearly explains the project and its purpose.
-- **Features:** Highlights responsive design and mobile functionality.
-- **Installation:** Provides instructions for local setup.
-- **Usage:** Describes how the site behaves on desktop and mobile.
-- **Technologies Used:** Lists technologies and resources.
-- **Contributing:** Encourages contributions.
-- **License:** Mentions the license type.
-- **Contact:** Provides additional contact information.
-
 Feel free to modify the content as needed to better fit your project specifics!
